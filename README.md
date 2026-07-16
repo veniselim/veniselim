@@ -3,7 +3,7 @@
   <br>
   <p>I <3 coding ^_^ !!!!!!!!!!!!!!</p>
   <img src="https://komarev.com/ghpvc/?username=veniselim&label=hearts&color=FF99AF&style=plastic&abbreviated=true" alt="views" title="view counter" />
-  <br>
+  <br><br>
   <p>check out my repos ↓</p>
 </h5>
   
