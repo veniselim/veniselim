@@ -7,6 +7,6 @@
   <br><br>
   <img width="160" height="auto" alt="spotify" title="now playing" src="https://spotify-github-profile.kittinanx.com/api/view?uid=veniselim2008&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffbdc7&bar_color_cover=false">
   <br><br>
-  <p>check out my repos ↓</p>
+  <p>check out my repos ↓ ↓ ↓</p>
 </h5>
   
